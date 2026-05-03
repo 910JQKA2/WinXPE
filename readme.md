@@ -86,7 +86,7 @@ WinXPE is a customized Windows Preinstallation Environment (WinPE) using **WinXS
 | | Tối thiểu / Minimum | Khuyến nghị / Recommended |
 |---|---|---|
 | **CPU** | x64 | x64, 2+ cores |
-| **RAM** | 4 GB | 4 GB+ |
+| **RAM** | 2 GB(Tải ISO bản Lite/ Download lite version) | 4 GB+ |
 | **USB** | 4 GB | 4 GB |
 | **Boot** | UEFI / Legacy | UEFI |
 
