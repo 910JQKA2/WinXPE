@@ -48,7 +48,7 @@ WinXPE is a customized Windows Preinstallation Environment (WinPE) using **WinXS
 | **AOMEI Partition Assistant** | Quản lý phân vùng / Partition management |
 | **Dism++ x64** | Tích hợp driver, cài Windows / Driver integration, Windows setup |
 | **WinNTSetup x64** | Cài đặt Windows / Windows installation |
-| **PENetwork** | Kết nối mạng trong PE / Network connectivity in PE |
+| **PENetwork** | Kết nối mạng trong PE(Chỉ mạng LAN) / Network connectivity in PE(LAN only) |
 | **CrystalDiskInfo** | Kiểm tra sức khỏe ổ đĩa / Disk health check |
 | **BOOTICE** | Sửa bootloader / Bootloader repair |
 | **Snappy Driver Installer** | Cài driver nhanh / Quick driver installation |
